@@ -1,0 +1,17 @@
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\bin\Debug\net6.0\PlatformService.Services.deps.json
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\bin\Debug\net6.0\PlatformService.Services.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\bin\Debug\net6.0\PlatformService.Services.pdb
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\bin\Debug\net6.0\PlatformService.Models.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\bin\Debug\net6.0\PlatformService.Repository.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\bin\Debug\net6.0\PlatformService.Models.pdb
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\bin\Debug\net6.0\PlatformService.Repository.pdb
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\PlatformService.Services.csproj.AssemblyReference.cache
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\PlatformService.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\PlatformService.Services.AssemblyInfoInputs.cache
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\PlatformService.Services.AssemblyInfo.cs
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\PlatformService.Services.csproj.CoreCompileInputs.cache
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\PlatformService.Services.csproj.CopyComplete
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\PlatformService.Services.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\refint\PlatformService.Services.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\PlatformService.Services.pdb
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net6.0\ref\PlatformService.Services.dll
