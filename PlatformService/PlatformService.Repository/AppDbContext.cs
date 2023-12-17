@@ -11,19 +11,14 @@ namespace PlatformService.Repository
 {
     public class AppDbContext : DbContext
     {
-        
-        //protected override void OnConfiguring (DbContextOptionsBuilder optionsBuilder)
-       // {
-       //     optionsBuilder.UseInMemoryDatabase(databaseName: "PlatformDb");
-       // }
-
-        
-        public AppDbContext(DbContextOptions<AppDbContext> options)
-        : base(options)
-        {
-        }
-
         public DbSet<Platform> Platforms { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            var connectionString = "Server=mssql-cluster-ip-service,1433;Initial Catalog=platformdb; User ID=sa; Password=Yatipasgama#1;Encrypt=True;TrustServerCertificate=True;";
+
+            optionsBuilder.UseSqlServer(connectionString);
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -1,0 +1,12 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: ef-migration-job
+spec:
+  template:
+    spec:
+      containers:
+      - name: platformservice
+        image: sankadharmapala/platformservice:latest
+        command: [ "dotnet", "ef", "migrations", "add", "InitialMigration" ]
+      restartPolicy: Never

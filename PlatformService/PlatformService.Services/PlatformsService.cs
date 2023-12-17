@@ -13,9 +13,9 @@ namespace PlatformService.Services
         private readonly IMapper _mapper;
 
         //AppDbContext appdbContex,
-        public PlatformsService(AppDbContext appDbContext, IMapper mapper)
+        public PlatformsService(IMapper mapper)
         {
-            _dbContext =  appDbContext;
+            _dbContext =  new AppDbContext();
             _mapper = mapper;
         }
         public List<PlatformReadDto> GetAll()

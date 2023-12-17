@@ -17,9 +17,10 @@ builder.Services.AddHttpClient<ICommandDataClient, CommandDataClient>();
 //builder.Services.AddScoped<DbContext, AppDbContext>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-builder.Services.AddDbContext<AppDbContext>(options =>
-                options.UseInMemoryDatabase("PlatformDb")
-    );
+//builder.Services.AddDbContext<AppDbContext>(options =>
+//                options.UseSqlServer("Server=localhost,1433;Initial Catalog=platformdb; User ID=sa; Password=Yatipasgama#1;Encrypt=True;TrustServerCertificate=True;")
+    //mssql-cluster-ip-service
+//    );
 
 var app = builder.Build();
 
