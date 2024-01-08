@@ -1054,6 +1054,21 @@
           }
         }
       },
+      "CommandService.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommandService.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.14",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.14"
+        },
+        "compile": {
+          "bin/placeholder/CommandService.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommandService.DataAccess.dll": {}
+        }
+      },
       "CommandService.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -2886,6 +2901,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CommandService.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../CommandService.DataAccess/CommandService.DataAccess.csproj",
+      "msbuildProject": "../CommandService.DataAccess/CommandService.DataAccess.csproj"
+    },
     "CommandService.Models/1.0.0": {
       "type": "project",
       "path": "../CommandService.Models/CommandService.Models.csproj",
@@ -2894,6 +2914,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CommandService.DataAccess >= 1.0.0",
       "CommandService.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.14",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.14",
@@ -2928,6 +2949,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "D:\\SE\\dotnetcore\\projects\\ms_demo_01\\CommandService\\CommandService.DataAccess\\CommandService.DataAccess.csproj": {
+              "projectPath": "D:\\SE\\dotnetcore\\projects\\ms_demo_01\\CommandService\\CommandService.DataAccess\\CommandService.DataAccess.csproj"
+            },
             "D:\\SE\\dotnetcore\\projects\\ms_demo_01\\CommandService\\CommandService.Models\\CommandService.Models.csproj": {
               "projectPath": "D:\\SE\\dotnetcore\\projects\\ms_demo_01\\CommandService\\CommandService.Models\\CommandService.Models.csproj"
             }
@@ -2981,7 +3005,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

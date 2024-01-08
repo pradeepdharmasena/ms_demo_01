@@ -22,7 +22,7 @@ namespace PlatformService.Services.DataSyncing
                 Encoding.UTF8,
                 "application/json");
 
-            var response = await _httpClient.PostAsync("http://command-cluster-ip-service.default.svc.cluster.local:80/Command", httpContent);
+            var response = await _httpClient.PostAsync("http://command-cluster-ip-service:80/api/Platform", httpContent);
             //https://localhost:7223/Command
             //http://command-cluster-ip-service:80/Command
             //command-cluster-ip-service.default.svc.cluster.local

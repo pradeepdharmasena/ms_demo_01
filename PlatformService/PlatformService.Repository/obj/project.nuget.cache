@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I1Mismh7miOgYzYr4aCvf5nP+lN8OmL6YWXWD8Svb3xojVJDFTgBbUn/2UVidhJxS67c5S7H+B07xvEdtv35Jg==",
+  "dgSpecHash": "BVRQZtYezI1lG0iKAGiDKddL/QDA1cKASeQZAHHwJ9HrH1w0uIWAqAFg72gI67B2Ll0znYJUp51aoKD0Ja6h6g==",
   "success": true,
   "projectFilePath": "D:\\SE\\dotnetcore\\projects\\ms_demo_01\\PlatformService\\PlatformService.Repository\\PlatformService.Repository.csproj",
   "expectedPackageFiles": [

@@ -15,3 +15,4 @@ D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\ob
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net7.0\refint\PlatformService.Services.dll
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net7.0\PlatformService.Services.pdb
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net7.0\ref\PlatformService.Services.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Services\obj\Debug\net7.0\PlatformService.Services.sourcelink.json

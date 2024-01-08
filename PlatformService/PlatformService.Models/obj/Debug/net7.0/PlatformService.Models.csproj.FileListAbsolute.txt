@@ -9,3 +9,4 @@ D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Models\obj\
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Models\obj\Debug\net7.0\refint\PlatformService.Models.dll
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Models\obj\Debug\net7.0\PlatformService.Models.pdb
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Models\obj\Debug\net7.0\ref\PlatformService.Models.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Models\obj\Debug\net7.0\PlatformService.Models.sourcelink.json

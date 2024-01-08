@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CommandService.DataAccess\CommandService.DataAccess.csproj" />
     <ProjectReference Include="..\CommandService.Models\CommandService.Models.csproj" />
   </ItemGroup>
 

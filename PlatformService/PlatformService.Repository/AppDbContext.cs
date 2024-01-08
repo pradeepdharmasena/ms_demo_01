@@ -15,6 +15,8 @@ namespace PlatformService.Repository
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //mssql-cluster-ip-service
+            //localhost
             var connectionString = "Server=mssql-cluster-ip-service,1433;Initial Catalog=platformdb; User ID=sa; Password=Yatipasgama#1;Encrypt=True;TrustServerCertificate=True;";
 
             optionsBuilder.UseSqlServer(connectionString);

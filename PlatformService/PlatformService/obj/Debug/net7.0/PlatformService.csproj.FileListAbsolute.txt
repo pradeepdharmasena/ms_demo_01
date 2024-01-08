@@ -81,3 +81,5 @@ D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService\obj\Debug\n
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService\obj\Debug\net7.0\PlatformService.pdb
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService\obj\Debug\net7.0\PlatformService.genruntimeconfig.cache
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService\obj\Debug\net7.0\ref\PlatformService.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService\obj\Debug\net7.0\PlatformService.sourcelink.json

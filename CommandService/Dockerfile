@@ -5,7 +5,10 @@ WORKDIR /app
 COPY CommandService.sln .
 
 COPY /CommandService/CommandService.csproj ./CommandService/
-
+COPY /CommandService.DataAccess/CommandService.DataAccess.csproj ./CommandService.DataAccess/
+COPY /CommandService.Models/CommandService.Models.csproj ./CommandService.Models/
+COPY /CommandService.Repository/CommandService.Repository.csproj ./CommandService.Repository/
+COPY /CommandService.Services/CommandService.Services.csproj ./CommandService.Services/
 
 RUN dotnet restore
 

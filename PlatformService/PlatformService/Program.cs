@@ -1,5 +1,3 @@
-using Microsoft.EntityFrameworkCore;
-using PlatformService.Repository;
 using PlatformService.Services;
 using PlatformService.Services.DataSyncing;
 
@@ -14,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IPlatformsService, PlatformsService>();
 builder.Services.AddHttpClient<ICommandDataClient, CommandDataClient>();
+builder.Services.AddSingleton<IMessageBusClient, MessageBusClient>();
 //builder.Services.AddScoped<DbContext, AppDbContext>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

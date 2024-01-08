@@ -15,3 +15,4 @@ D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Repository\
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Repository\obj\Debug\net7.0\PlatformService.Repository.pdb
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Repository\obj\Debug\net7.0\PlatformService.Repository.genruntimeconfig.cache
 D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Repository\obj\Debug\net7.0\ref\PlatformService.Repository.dll
+D:\SE\dotnetcore\projects\ms_demo_01\PlatformService\PlatformService.Repository\obj\Debug\net7.0\PlatformService.Repository.sourcelink.json

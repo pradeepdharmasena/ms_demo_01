@@ -1,0 +1,12 @@
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\bin\Debug\net7.0\CommandService.Models.deps.json
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\bin\Debug\net7.0\CommandService.Models.dll
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\bin\Debug\net7.0\CommandService.Models.pdb
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\CommandService.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\CommandService.Models.AssemblyInfoInputs.cache
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\CommandService.Models.AssemblyInfo.cs
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\CommandService.Models.csproj.CoreCompileInputs.cache
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\CommandService.Models.sourcelink.json
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\CommandService.Models.dll
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\refint\CommandService.Models.dll
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\CommandService.Models.pdb
+D:\SE\dotnetcore\projects\ms_demo_01\CommandService\CommandService.Models\obj\Debug\net7.0\ref\CommandService.Models.dll

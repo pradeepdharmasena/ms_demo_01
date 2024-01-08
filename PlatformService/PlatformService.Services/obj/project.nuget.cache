@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KuJfgJjS25cQtSCjlbCArTLR9TDA4SyU8dIAFYzW5ff5VJ/TGRhL2BGGVo1GE/s93vbbjLieT24/z4YbHgBcBA==",
+  "dgSpecHash": "FDEwY60k8Oe8J/JgO7+lccE0NHaczM/3dHt5LS0+me9x8vZFOXU9DeCBH4IVaLbRENWayMYmNH9gXwBjCDUxzQ==",
   "success": true,
   "projectFilePath": "D:\\SE\\dotnetcore\\projects\\ms_demo_01\\PlatformService\\PlatformService.Services\\PlatformService.Services.csproj",
   "expectedPackageFiles": [
@@ -37,12 +37,13 @@
     "C:\\Users\\Pradeep\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pradeep\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.24.0\\system.identitymodel.tokens.jwt.6.24.0.nupkg.sha512",
-    "C:\\Users\\Pradeep\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Pradeep\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
@@ -57,6 +58,7 @@
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Pradeep\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Pradeep\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],

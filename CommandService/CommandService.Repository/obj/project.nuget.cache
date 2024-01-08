@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a7AEcJ074ssBm0CXtAYeJQVeZa9j2eUZM59LUBWlJAnasCNRHWpx3u9/0k3OX9pqw0zGDsMNphucfSC/RpW7eA==",
+  "dgSpecHash": "3SIRB/diPdT4O+lsFVLtOXs/VUsRECWI7anlHc6wkkkSx8V5WsOA5IZ0bert6Kq0d1YK6nbtzyO4PTVE34zbtA==",
   "success": true,
   "projectFilePath": "D:\\SE\\dotnetcore\\projects\\ms_demo_01\\CommandService\\CommandService.Repository\\CommandService.Repository.csproj",
   "expectedPackageFiles": [
